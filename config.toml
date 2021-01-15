@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://recette-lentilles-corail.vercel.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = Recette-Lentilles-Corail"
 theme = "ananke"
